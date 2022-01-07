@@ -1,4 +1,4 @@
-# estraer seguidores de instagram
+# Extraer seguidores de instagram
 
 Este scraper está programado en python y utiliza el webdriver de chrome para autenticarse en instagram. consultar un perfil y extraer el nombre de usuario de todas las cuentas que siguen a este perfil.
 
