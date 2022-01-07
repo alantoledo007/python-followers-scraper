@@ -14,7 +14,13 @@ IG_PASSWORD=
 DRIVER_PATH=
 ```
 
-## Descargar chromedriver
+## 4. Descargar chromedriver
 
 Asegurate de elegir la misma versión que tu navegador Google Chrome
 https://chromedriver.chromium.org/downloads
+
+## 5. python3 main.py
+
+Te pedirá por consola el username de alguna cuenta para extraer la lista de seguidores
+`IMPORTANTE`
+La cuenta debe ser pública. Si es privada es necesario que te haya aceptado como seguidor
