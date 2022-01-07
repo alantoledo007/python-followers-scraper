@@ -24,3 +24,7 @@ https://chromedriver.chromium.org/downloads
 Te pedirá por consola el username de alguna cuenta para extraer la lista de seguidores
 `IMPORTANTE`
 La cuenta debe ser pública. Si es privada es necesario que te haya aceptado como seguidor
+
+## LISTO
+
+cuando finalize de scrollear la lista de seguidores, fijate en la consola se va a imprimir un array con todos los username.
