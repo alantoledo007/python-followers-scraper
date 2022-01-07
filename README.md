@@ -19,7 +19,7 @@ DRIVER_PATH=
 Asegurate de elegir la misma versión que tu navegador Google Chrome
 https://chromedriver.chromium.org/downloads
 
-## 5. python3 main.py
+## 5. `python3 main.py`
 
 Te pedirá por consola el username de alguna cuenta para extraer la lista de seguidores
 `IMPORTANTE`
